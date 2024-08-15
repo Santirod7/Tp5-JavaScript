@@ -1,0 +1,13 @@
+.filtroimagenes{
+    filter:grayscale(20%);
+}
+.tamañobanner{
+    height: 400px;
+    object-fit: cover;
+}
+.bg-yellowlow{
+    background-color: #e2ac09;
+}
+.bg-yellowlower{
+    background-color: #a37c08;
+}
